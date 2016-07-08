@@ -10,7 +10,7 @@
 <script>
 function makeWidget(element, data) {
   console.log(element, JSON.stringify(data));
-  console.log('third')
+  console.log('third', element.attr('data-type'))
   var widget_html = '';
   if (element.attr('data-type') == 'table') {
     widget_html += '<table><tr>';
