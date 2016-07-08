@@ -24,7 +24,7 @@ function makeWidget(element, data) {
 function runWidgets() {
   console.log('running widgets');
   $('.widget').each(function() {
-    console.log(first);
+    console.log('first');
     var url = $(this).attr('data-url') + encodeURIComponent($(this).attr('data-query'));
     $.get(url, function(data) {
       console.log('second');
