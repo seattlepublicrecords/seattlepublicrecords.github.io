@@ -9,6 +9,7 @@
 <meta name="google-site-verification" content="akmmCT3-bRrgB_RrIwS6Rl0Nm68WDlXTaK-A4zNbdQU" />
 <script>
 function makeWidget(element, data) {
+  console.log(element, JSON.stringify(data));
   console.log('third')
   var widget_html = '';
   if (element.attr('data-type') == 'table') {
