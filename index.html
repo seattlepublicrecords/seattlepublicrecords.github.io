@@ -9,6 +9,7 @@
 <meta name="google-site-verification" content="akmmCT3-bRrgB_RrIwS6Rl0Nm68WDlXTaK-A4zNbdQU" />
 <script>
 function makeWidget(element, data) {
+  console.log('third')
   var widget_html = '';
   if (element.attr('data-type') == 'table') {
     widget_html += '<table><tr>';
@@ -21,9 +22,12 @@ function makeWidget(element, data) {
   element.html(widget_html)
 }
 function runWidgets() {
+  console.log('running widgets');
   $('.widget').each(function() {
+    console.log(first);
     var url = $(this).attr('data-url') + encodeURIComponent($(this).attr('data-query'));
     $.get(url, function(data) {
+      console.log('second');
       makeWidget($(this), data);
     })
   })
