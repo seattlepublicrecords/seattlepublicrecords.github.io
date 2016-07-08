@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>Seattle Public Records: For public control of Seattle</title>
+<script   src="https://code.jquery.com/jquery-3.1.0.min.js"   integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="   crossorigin="anonymous"></script>
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans" />
@@ -157,6 +158,34 @@ the provisions of this chapter shall govern.</p>
 <div class="story"><h3>Catalog of Seattle Police no shows and horrible response times</h3></div>
 <div class="story"><h3>Catalog of Seattle Police misconduct complaints</h3></div>
 -->
+<script>
+function makeWidget(element, data) {
+  var widget_html = '';
+  if (element.attr('data-type') == 'table') {
+    widget_html += '<table><tr>';
+    $.each(data['fields'], function(i, field) {
+      widget_html += '<td>'+field+'</td>';
+    })
+    widget_html += '</tr>';
+    widget_html += '</table>';
+  }
+  element.html(widget_html)
+}
+function runWidgets() {
+  $('.widget').each(function() {
+    var url = $(this).attr('data-url') + encodeURIComponent($(this).attr('data-query'));
+    $.get(url, function(data) {
+      makeWidget($(this), data);
+    })
+  })
+}
+  $(function() {
+    runWidgets();
+  })
+</script>
+<div class="widget" data-type="table" data-url="https://db.seattlepublicrecords.org/query/?q=" data-query="SELECT DATETIME, EMAILFROM, EMAILTO, SUBJECT FROM emails ORDER BY DATETIME DESC LIMIT 10">
+  
+</div>
 </div>
 
 
