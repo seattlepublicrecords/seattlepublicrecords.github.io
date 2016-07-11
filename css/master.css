@@ -122,3 +122,11 @@ th {
 #content h1 {
     font-size:1.5em;
 }
+@media only screen and (max-device-width: 480px) {
+    #sidebar, #tagline, #contact-info {
+        display:none;
+    }
+    #content {
+        margin:0
+    }
+}
