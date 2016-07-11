@@ -116,7 +116,7 @@ td, th {
 th {
   font-weight:bold;
 }
-#content > * {
+#content h1, #content p {
     margin-bottom:10px;
 }
 #content h1 {
