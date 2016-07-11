@@ -7,7 +7,7 @@ font-family:"Open Sans";
   background-image: radial-gradient(circle 25px at 5px 5px, white, yellow, lightyellow, #87CEFA);
   color:#ffffff;
 }
-h1 {
+#banner h1 {
   font-size:2em;
   font-weight:bold;
   display:inline-block;
@@ -115,4 +115,10 @@ td, th {
 }
 th {
   font-weight:bold;
+}
+#content > * {
+    margin-bottom:10px;
+}
+#content h1 {
+    font-size:1.5em;
 }
