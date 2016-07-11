@@ -10,7 +10,7 @@ categories: news
 
 **Incomplete archives of SPOG's former accounts:** [Facebook](https://web.archive.org/web/20160709005010/https://www.facebook.com/seattlepoliceguild/) and [Twitter](https://web.archive.org/web/20160709005010/https://twitter.com/SPOG1952/)
 
-**Records request:** Does SPOG really think that by deleting its Twitter we the public won't find out what its President thinks? See https://twitter.com/timclemansatspr/status/751922300711104512?replies_view=true&cursor=ALBUh0Ffbwo
+**Records request:** Does SPOG really think that by deleting its Twitter we the public won't find out what its President thinks? See [a Twitter conversation between me and @washingtoncog](https://twitter.com/timclemansatspr/status/751922300711104512?replies_view=true&cursor=ALBUh0Ffbwo)
 
 **My records request:** "This is a public records request for all records created by Ron Smith
 regardless of form/location/owner including phone logs from the
