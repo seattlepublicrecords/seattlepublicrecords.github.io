@@ -6,13 +6,13 @@ date:   2016-07-11 11:30 +0000
 categories: news
 ---
 
-**News:** The Seattle Police Officers Guild took down its website in May, according to [King5: Court temporarily blocks release of SPD officer photos](http://www.king5.com/news/local/court-temporarily-blocks-release-of-spd-officer-photos/190889415). Now it has taken down its Facebook and Twitter accounts likely because of blacklash a Facebook post that had "The hatred of law enforcement by a minority movement is disgusting. … #weshallovercome" in it, see [Seattle Times: Seattle police union says ‘minority movement’ Facebook post about Dallas taken out of context](http://www.seattletimes.com/seattle-news/seattle-police-union-deletes-minority-movement-facebook-post-about-dallas-shooting/)
+**News:** The Seattle Police Officers Guild took down its website in May, according to [King5: Court temporarily blocks release of SPD officer photos](http://www.king5.com/news/local/court-temporarily-blocks-release-of-spd-officer-photos/190889415). Now it has taken down its Facebook and Twitter accounts likely because of blacklash over a Facebook post that had "The hatred of law enforcement by a minority movement is disgusting. … #weshallovercome" in it, see [Seattle Times: Seattle police union says ‘minority movement’ Facebook post about Dallas taken out of context](http://www.seattletimes.com/seattle-news/seattle-police-union-deletes-minority-movement-facebook-post-about-dallas-shooting/)
 
-Incomplete archives of SPOG's former accounts: [Facebook](https://web.archive.org/web/20160709005010/https://www.facebook.com/seattlepoliceguild/) and [Twitter](https://web.archive.org/web/20160709005010/https://twitter.com/SPOG1952/)
+**Incomplete archives of SPOG's former accounts:** [Facebook](https://web.archive.org/web/20160709005010/https://www.facebook.com/seattlepoliceguild/) and [Twitter](https://web.archive.org/web/20160709005010/https://twitter.com/SPOG1952/)
 
 **Records request:** Does SPOG really think that by deleting its Twitter we the public won't find out what its President thinks? See https://twitter.com/timclemansatspr/status/751922300711104512?replies_view=true&cursor=ALBUh0Ffbwo
 
-My records request: "This is a public records request for all records created by Ron Smith
+**My records request:** "This is a public records request for all records created by Ron Smith
 regardless of form/location/owner including phone logs from the
 phones, emails with meta-data, text messages, word documents, etc,
 since 7/1/2016 related to his role as union president. It does not
