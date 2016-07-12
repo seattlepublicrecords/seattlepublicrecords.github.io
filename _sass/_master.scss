@@ -1,11 +1,13 @@
 body {
   font-family: "Open Sans";
+  min-width: 320px;
 }
 
 .banner {
+  @extend %clearfix;
   padding: 20px;
   font-weight: bold;
-  background-image: radial-gradient(circle 25px at 5px 5px, white, yellow, lightyellow, #87CEFA);
+  background-image: radial-gradient(circle 25px at 5px 5px, white, yellow, lightyellow, $header-color);
   color: $link-color;
 }
 
@@ -26,8 +28,17 @@ body {
   display: inline-block;
 }
 
+.header {
+  float: left;
+}
+
+.banner {
+  .header, .contact_info {
+    width: 50%;
+  }
+}
+
 .contact_info {
-  max-width: 690px;
   float: right;
 }
 
@@ -53,7 +64,7 @@ body {
 
 .nav li:hover {
   padding-bottom: 7px;
-  border-bottom: 3px solid #87CEFA;
+  border-bottom: 3px solid $header-color;
 }
 
 .main {
