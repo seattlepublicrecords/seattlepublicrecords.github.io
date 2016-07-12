@@ -4,6 +4,8 @@ title: Seattle Police refuse to release a special type of in-car video called Fa
 date: '2016-07-12 14:17:00'
 layout: post
 ---
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphotographyisnotacrime%2Fposts%2F1114983058524778&width=500" width="500" height="485" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
 **News:** Seattle Police uses a dash camera system that is always saving video to a hard drive regardless if an officer activiates the system for a call. This is called Fail-safe.
 
 Fail-safe has captured the shooting of Officer Brenton and the shooting of the shooter who killed four Lakewood officers. It also captures stuff that were requested but not released such as the time an officer was following my car without camera activitated. The lack of video helped me in court. It captured 
