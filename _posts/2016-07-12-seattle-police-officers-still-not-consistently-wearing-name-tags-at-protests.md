@@ -1,6 +1,6 @@
 ---
 title: Seattle Police officers still not consistently wearing name tags at protests
-date: '2016-07-11 18:33:00'
+date: '2016-07-11 19:05:00'
 layout: post
 ---
 **News:** Mike O'Dell photographed two officers at Sunday's protest without name tags. Seattle Police's Public Affairs Director said he did not recognize the officers and reminded their chain of command about need to wear name tags. You can listen to <a href="http://www2.evoice.com/CallRecording.asp?u=2903411-cr-2016-07-11.21-44-36-03b6.wav&h=BBA0B4561AC44B6A09832A3AD8C01BAB&b=evoice">audio of my conversation with Whitcomb about this</a>. Note before my phone provider records it auto announces for both inbound and outbound that the call is recorded.
