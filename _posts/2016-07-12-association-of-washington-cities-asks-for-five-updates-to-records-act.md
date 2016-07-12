@@ -9,6 +9,7 @@ layout: post
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 **Background and analysis:**
+
 ## Charging for electronic records
 
 AWC's rep to me at least seems to be asking for the right to charge for the transfering of electronic records. The Seattle Police Department and City of Everett charge at minimum a [$1.25 to have records transfer via either GovQA](http://www.seattle.gov/seattle-police-department/records-request-center/fee-schedule) (SPD) or $2.80 via a public file transfer server (Everett as of December 2015). These records are based on time spent by records officers to make the transfer. There was a bill proposed last year to implement a per megabyte charge.
