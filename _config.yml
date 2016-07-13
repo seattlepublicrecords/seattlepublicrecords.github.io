@@ -20,3 +20,12 @@ permalink: /:categories/:title
 post_dirs: false
 # Build settings
 markdown: kramdown
+defaults:
+  - scope:
+        path: ""
+        type: posts
+    values:
+        thumbnail: ""
+        categories: ["news"]
+        description: ""
+        post_author: "Tim Clemans"
