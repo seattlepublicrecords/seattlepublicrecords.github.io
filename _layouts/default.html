@@ -14,11 +14,6 @@
           <h1><a href="/">Seattle Public Records</a></h1>
           <p class="tagline">Significantly increase public control of<br/> government agencies operating in Seattle</p>
         </div>
-        <div class="contact_info">
-          Email us at <a href="mailto:info@seattlepublicrecords.org">info@seattlepublicrecords.org</a> or call us at (206) 693-4096.
-          <strong>Note:</strong> Because SPR aims to be a transparency leader, emails as well as calls to and from that number are
-          recorded (auto warning played) and <a href="/about/emails/">posted online</a>.
-        </div>
       </div>
     </div>
 
@@ -48,7 +43,13 @@
 
     <div class="main">
 
-      <div class="sidebar">
+      <div class="content">
+        {{ content }}
+      </div>
+    </div>
+
+    <div class="footer">
+      <div class="footer-content">
         <h3>The mission of SPR</h3>
         <p>
         SPR's mission is to significantly increase public control of
@@ -69,12 +70,17 @@
         the provisions of this chapter shall govern.
         </p>
       </div>
-      <div class="content">
-        <div class="warning">This site is not fully operational yet. I have a day job that I have to do. I'm putting in as much time as I can to get this operational.</div>
-
-        {{ content }}
+      <div class="contact-info">
+        <h3>Contact</h3>
+        <p>Email: <a href="mailto:info@seattlepublicrecords.org">info@seattlepublicrecords.org</a></p>
+        <p>Phone: (206) 693-4096</p>
+        <p>
+        <strong>Note:</strong> Because SPR aims to be a transparency leader, emails as well as calls to and from that number are
+        recorded (auto warning played) and <a href="/about/emails/">posted online</a>.
+        </p>
       </div>
     </div>
+
     <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
