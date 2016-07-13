@@ -20,6 +20,8 @@ permalink: /:categories/:title
 post_dirs: false
 # Build settings
 markdown: kramdown
+gems:
+  - jekyll-redirect-from
 defaults:
   - scope:
         path: ""
