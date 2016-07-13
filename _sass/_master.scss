@@ -1,31 +1,51 @@
 body {
   font-family: "Open Sans";
-  min-width: 320px;
+  font-size: $base-font-size;
+  min-width: 32rem;
+}
+
+@include media-query($on-tablet) {
+  body {
+    font-size: 14px;
+  }
+}
+
+@include media-query($on-mobile) {
+  body {
+    font-size: 12px;
+  }
 }
 
 .banner {
   @extend %clearfix;
-  padding: 20px;
+  padding: 1rem;
   font-weight: bold;
   background-image: radial-gradient(circle 25px at 5px 5px, white, yellow, lightyellow, $header-color);
   color: $link-color;
 }
 
 .banner h1 {
-  font-size: 2em;
+  font-size: 2rem;
+  line-height: 1;
   font-weight: bold;
   display: inline-block;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+}
+
+@include media-query($on-mobile) {
+  .banner h1 {
+    margin-bottom: 0;
+  }
 }
 
 .tagline, .contact_info {
   font-weight: 700;
   font-size: .8em;
   line-height: 1.3;
-}
-
-.tagline {
-  margin-left: 10px;
-  display: inline-block;
 }
 
 .header {
@@ -36,10 +56,24 @@ body {
   .header, .contact_info {
     width: 50%;
   }
+
+  @include media-query($on-mobile) {
+    .header, .contact_info {
+      width: auto;
+    }
+  }
 }
 
 .contact_info {
   float: right;
+  text-align: right;
+}
+
+@include media-query($on-tablet) {
+  .contact_info {
+    float: none;
+    text-align: left;
+  }
 }
 
 .nav {
@@ -49,12 +83,17 @@ body {
 
 .nav ul {
   margin-left: 0;
+  margin-bottom: 0;
+  padding: 1rem;
 }
 
 .nav li {
   display: inline-block;
-  padding: 10px 0;
-  margin-left: 20px;
+  margin-left: 1rem;
+
+  &:first-of-type {
+    margin-left: 0;
+  }
 }
 
 .nav a:link, .nav a:visited {
@@ -62,36 +101,33 @@ body {
   text-decoration: none;
 }
 
-.nav li:hover {
-  padding-bottom: 7px;
-  border-bottom: 3px solid $header-color;
+.nav li a:hover {
+  color: $header-color;
 }
 
 .main {
-  padding: 20px;
-  line-height: 1.2em;
+  line-height: 1.2;
+}
+
+.main, .nav ul, .header-wrapper {
+  max-width: $max-width;
+  margin: 0 auto;
 }
 
 .sidebar {
-  width: 300px;
+  width: 20rem;
   float: right;
-}
+  background: $grey-color-light;
+  padding: 2rem;
+  margin-left: 2rem;
 
-.content {
-  margin-right: 320px;
+  h3, p {
+    margin-bottom: 1rem;
+  }
 }
 
 h3 {
   font-weight: bold;
-}
-
-.sidebar h3, .sidebar p {
-  margin-bottom: 10px;
-}
-
-.contact_info {
-  float: right;
-  text-align: right;
 }
 
 .contact_info a:link, .contact_info a:visited {
@@ -107,7 +143,7 @@ h3 {
   background: .000;
   color: $link-color;
   font-size: .9em;
-  margin-bottom: 20px;
+  margin-bottom: 2rem;
 }
 
 .pdr_relay_service a:link, .pdr_relay_service a:visited {
@@ -128,7 +164,7 @@ strong {
   float: left;
   border: 1px solid .000;
   padding: 5px;
-  margin-right: 20px;
+  margin-right: 2rem;
 }
 
 .story h3 {
@@ -141,7 +177,7 @@ strong {
 }
 
 .warning {
-  padding: 20px;
+  padding: 2rem;
   background: red;
   color: $link-color;
 }
@@ -155,17 +191,22 @@ th {
   font-weight: bold;
 }
 
-.content h1, .content p {
-  margin-bottom: 10px;
+.content {
+  h1, p {
+    margin-bottom: 1rem;
+  }
+
+  h1 {
+    font-size: 1.5em;
+  }
 }
 
-.content h1 {
-  font-size: 1.5em;
-}
-
-@media only screen and (max-device-width: 480px) {
-  .sidebar, .tagline, .contact_info {
+@include media-query($on-mobile) {
+  .sidebar, .contact_info {
     display: none;
+    width: auto;
+    margin: 0;
+    padding: 0;
   }
 
   .content {
