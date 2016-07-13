@@ -31,4 +31,4 @@ defaults:
         thumbnail: ""
         categories: ["news"]
         description: ""
-        post_author: "Tim Clemans"
+        author: "Tim Clemans"
