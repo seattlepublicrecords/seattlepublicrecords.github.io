@@ -3,6 +3,7 @@ title: Seattle Police refuse to release a special type of in-car video called Fa
   video
 date: '2016-07-12 14:17:00'
 layout: post
+categories: ""
 ---
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphotographyisnotacrime%2Fposts%2F1114983058524778&width=500" width="500" height="485" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
