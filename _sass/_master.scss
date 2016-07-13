@@ -1,7 +1,7 @@
 body {
   font-family: "Open Sans";
   font-size: $base-font-size;
-  min-width: 32rem;
+  min-width: 320px;
 }
 
 @include media-query($on-tablet) {
@@ -96,6 +96,10 @@ body {
 
 .footer {
   background: $grey-color-light;
+
+  .highlight {
+    background: yellow;
+  }
 }
 
 .contact-info {
@@ -125,10 +129,6 @@ body {
 
 h3 {
   font-weight: bold;
-}
-
-.highlight {
-  background: yellow;
 }
 
 .pdr_relay_service {
@@ -187,6 +187,7 @@ th {
 .content {
   h1, p {
     margin-bottom: 1rem;
+    line-height: 1.5;
   }
 
   h1 {
