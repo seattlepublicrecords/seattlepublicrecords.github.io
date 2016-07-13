@@ -34,7 +34,7 @@ I think the department should make both in-car and body worn video remotely acti
 
 For access to videos I think Public Affairs should be added to the list as they're already proactively releasing videos.
 
-Regarding the flagging, I think all 
+Regarding the flagging, I think it needs to be broken out into in-car video and body worn video. There's more items needed for BWV like enetering a private place or CJIS data showing on computer.
 
 
 
