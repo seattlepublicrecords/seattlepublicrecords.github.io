@@ -5,7 +5,9 @@ date: '2016-07-12 00:00:00'
 redirect_from: "/seattle-police-refuse-to-release-a-special-type-of-in-car-video-called-fail-safe-video"
 layout: post
 ---
-This post has been discussed by <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphotographyisnotacrime%2Fposts%2F1114983058524778&width=500" width="500" height="485" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+This post has been discussed by 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphotographyisnotacrime%2Fposts%2F1114983058524778&width=500" width="500" height="485" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 See this very insightful <a href="https://www.reddit.com/r/Seattle/comments/4sk7o0/seattle_police_erasing_thousands_of_dash_cam/?sort=new">Reddit discussion</a>. One post in particular calls into question my proposal that can admin can select which videos to prevent the software from deleting. I'm very pleased people more knowledgable than me are chiming in.
 
