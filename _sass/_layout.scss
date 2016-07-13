@@ -42,7 +42,7 @@
         }
     }
 
-    @include media-query($on-palm) {
+    @include media-query($on-tablet) {
         position: absolute;
         top: 9px;
         right: $spacing-unit / 2;
@@ -154,7 +154,7 @@
     }
 }
 
-@include media-query($on-palm) {
+@include media-query($on-tablet) {
     .footer-col {
         float: none;
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
