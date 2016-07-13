@@ -1,5 +1,5 @@
 ---
-redirect_from: "/2016-07-12-seattle-police-refuse-to-release-a-special-type-of-in-car-video-called-fail-safe-video"
+redirect_from: "/seattle-police-refuse-to-release-a-special-type-of-in-car-video-called-fail-safe-video"
 title: Seattle Police refuse to release a special type of in-car video called Fail-safe
   video
 date: '2016-07-12 14:17:00'
