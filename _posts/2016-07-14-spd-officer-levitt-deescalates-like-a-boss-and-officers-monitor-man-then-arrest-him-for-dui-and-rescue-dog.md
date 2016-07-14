@@ -27,7 +27,7 @@ The man was arrested for DUI. There was no use of force. Had officers tried to a
 
 Search for BA# 216020076 at [King County Jail Inmate Lookup](http://blue.kingcounty.gov/Courts/Detention/JILS/) 
 
-I found this exetremely professional traffic stop by Levitt:
+I found this, in my opinion, exetremely professional traffic stop by Levitt:
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/1ueflAYxit4" frameborder="0" allowfullscreen></iframe>
 
