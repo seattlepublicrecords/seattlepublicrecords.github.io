@@ -1,5 +1,5 @@
 ---
-title: Seattle Mayor Ed Murray got African America kicked off race discussion panel
+title: Seattle Mayor Ed Murray got African American kicked off race discussion panel
 date: '2016-07-15 20:40:00'
 thumbnail: ''
 categories:
