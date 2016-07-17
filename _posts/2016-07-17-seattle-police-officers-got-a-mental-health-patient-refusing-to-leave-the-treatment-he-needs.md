@@ -1,5 +1,5 @@
 ---
-title: Seattle Police Officers got a metal health patient refusing to leave the treatment
+title: Seattle Police Officers got a mental health patient refusing to leave the treatment
   he needs
 date: '2016-07-16 20:07:00'
 thumbnail: ''
