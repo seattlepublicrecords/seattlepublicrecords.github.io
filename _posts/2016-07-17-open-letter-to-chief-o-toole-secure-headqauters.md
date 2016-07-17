@@ -3,7 +3,7 @@ title: 'Open letter to chief O''Toole: Secure Headqauters'
 date: '2016-07-17 12:04:00'
 thumbnail: ''
 categories:
-- news
+- opinion
 description: ''
 author: Tim Clemans
 layout: post
