@@ -1,5 +1,5 @@
 ---
-title: 'Open letter to chief O''Toole: Secure Headqauters'
+title: 'Open letter to chief O''Toole: Secure Headquaters'
 date: '2016-07-17 12:04:00'
 thumbnail: ''
 categories:
@@ -10,7 +10,7 @@ layout: post
 ---
 Dear Chief O'Toole:
 
-Seattle Police headqauters is insecure. A lone officer with a handgun guarding an open enterway to elevators not requiring ID badge to floors with windows for doors is unlikely to stop the criminals/terrorists killing officers in this country. I demand, as someone who often depends on Seattle Police services as a visitor to the city, that you fix the weak protection of headquaters. 
+Seattle Police headquaters is insecure. A lone officer with a handgun guarding an open enterway to elevators not requiring ID badge to floors with windows for doors is unlikely to stop the criminals/terrorists killing officers in this country. I demand, as someone who often depends on Seattle Police services as a visitor to the city, that you fix the weak protection of headquaters. 
 
 Security is not an either or choice. Officers can have great relationships with the community AND be far more secure than they are today.
 
