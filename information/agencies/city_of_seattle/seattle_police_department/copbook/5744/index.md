@@ -4,4 +4,4 @@ title: Seattle Police Officer 5744 Christopher J. Fowler
 permalink: /information/agencies/city_of_seattle/seattle_police_department/copbook/5744/
 ---
 
-**Age as of Feb. 24, 2016:** 51.0
+**Age as of Feb. 24, 2016:** 51

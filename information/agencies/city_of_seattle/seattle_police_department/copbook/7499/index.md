@@ -4,4 +4,4 @@ title: Seattle Police Officer 7499 Daniel A. Auderer
 permalink: /information/agencies/city_of_seattle/seattle_police_department/copbook/7499/
 ---
 
-**Age as of Feb. 24, 2016:** 41.0
+**Age as of Feb. 24, 2016:** 41

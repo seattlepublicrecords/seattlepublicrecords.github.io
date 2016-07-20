@@ -4,4 +4,4 @@ title: Seattle Police Officer 6799 Raul Vaca
 permalink: /information/agencies/city_of_seattle/seattle_police_department/copbook/6799/
 ---
 
-**Age as of Feb. 24, 2016:** 39.0
+**Age as of Feb. 24, 2016:** 39

@@ -4,4 +4,4 @@ title: Seattle Police Officer 8354 Justin T. ODell
 permalink: /information/agencies/city_of_seattle/seattle_police_department/copbook/8354/
 ---
 
-**Age as of Feb. 24, 2016:** 29.0
+**Age as of Feb. 24, 2016:** 29

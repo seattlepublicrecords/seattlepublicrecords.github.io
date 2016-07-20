@@ -4,4 +4,4 @@ title: Seattle Police Officer 6038 Eric A. Greening
 permalink: /information/agencies/city_of_seattle/seattle_police_department/copbook/6038/
 ---
 
-**Age as of Feb. 24, 2016:** 43.0
+**Age as of Feb. 24, 2016:** 43

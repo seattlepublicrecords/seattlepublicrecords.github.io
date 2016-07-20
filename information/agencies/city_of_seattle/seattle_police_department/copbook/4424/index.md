@@ -4,4 +4,4 @@ title: Seattle Police Officer 4424 Daniel J. Whelan
 permalink: /information/agencies/city_of_seattle/seattle_police_department/copbook/4424/
 ---
 
-**Age as of Feb. 24, 2016:** 62.0
+**Age as of Feb. 24, 2016:** 62

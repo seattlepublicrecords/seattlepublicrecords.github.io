@@ -4,4 +4,4 @@ title: Seattle Police Officer 5464 David M. Hayes
 permalink: /information/agencies/city_of_seattle/seattle_police_department/copbook/5464/
 ---
 
-**Age as of Feb. 24, 2016:** 51.0
+**Age as of Feb. 24, 2016:** 51

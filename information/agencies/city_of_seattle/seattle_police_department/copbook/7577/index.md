@@ -4,4 +4,4 @@ title: Seattle Police Officer 7577 Corey D. Lapinsky
 permalink: /information/agencies/city_of_seattle/seattle_police_department/copbook/7577/
 ---
 
-**Age as of Feb. 24, 2016:** 40.0
+**Age as of Feb. 24, 2016:** 40

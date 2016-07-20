@@ -6,4 +6,4 @@ permalink: /information/agencies/city_of_seattle/seattle_police_department/copbo
 
 <img src="/forestryio/images/20160717_222452.jpg" alt="Officer Barker smiling about a good outcome" />
 
-**Age as of Feb. 24, 2016:** 34.0
+**Age as of Feb. 24, 2016:** 34

@@ -4,4 +4,4 @@ title: Seattle Police Officer 7431 John A. Welch
 permalink: /information/agencies/city_of_seattle/seattle_police_department/copbook/7431/
 ---
 
-**Age as of Feb. 24, 2016:** 31.0
+**Age as of Feb. 24, 2016:** 31

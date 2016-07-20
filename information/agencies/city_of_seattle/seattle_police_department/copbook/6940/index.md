@@ -4,4 +4,4 @@ title: Seattle Police Officer 6940 Christopher M. Coles
 permalink: /information/agencies/city_of_seattle/seattle_police_department/copbook/6940/
 ---
 
-**Age as of Feb. 24, 2016:** 36.0
+**Age as of Feb. 24, 2016:** 36

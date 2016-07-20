@@ -4,4 +4,4 @@ title: Seattle Police Officer 7786 Scott C. Lapierre
 permalink: /information/agencies/city_of_seattle/seattle_police_department/copbook/7786/
 ---
 
-**Age as of Feb. 24, 2016:** 24.0
+**Age as of Feb. 24, 2016:** 24

@@ -4,4 +4,4 @@ title: Seattle Police Officer 8312 Albert M. Capelouto
 permalink: /information/agencies/city_of_seattle/seattle_police_department/copbook/8312/
 ---
 
-**Age as of Feb. 24, 2016:** 30.0
+**Age as of Feb. 24, 2016:** 30
