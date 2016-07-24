@@ -10,7 +10,7 @@ description: ''
 author: Tim Clemans
 layout: post
 ---
-**News:** Seattle firefighter Randy Nye aggressively told an African American "get in the gurney and let's go", "get in the gurney" a few times more and then after a short pause turned on me telling me to "get the hell out of here". When I told him I'm allowed to film he moved his body repeatly to block my filming. Instead of telling her suborinate to knock it off the company officer got onto me. The three police officers were chill the whole time and even used the word de-escalation when discussing how to resolve things with the man. In all the time I've spent filming at night no Seattle Police officer has tired to get to me stop filming.
+**News:** Early morning on 7/23/16, Seattle firefighter Randy Nye aggressively told an African American "get in the gurney and let's go", "get in the gurney" a few times more and then after a short pause turned on me telling me to "get the hell out of here". When I told him I'm allowed to film he moved his body repeatly to block my filming. Instead of telling her suborinate to knock it off the company officer got onto me. The three police officers were chill the whole time and even used the word de-escalation when discussing how to resolve things with the man. In all the time I've spent filming at night no Seattle Police officer has tired to get to me stop filming.
 
 **Firefighters vs police:** Right now I'm liking the police way more than firefighters.
 
