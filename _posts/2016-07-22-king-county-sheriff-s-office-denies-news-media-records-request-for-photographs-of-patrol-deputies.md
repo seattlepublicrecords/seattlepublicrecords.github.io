@@ -1,6 +1,6 @@
 ---
 title: King County Sheriff's Office denies news media records request for photographs
-  of patrol deputies
+  of patrol deputies (appeal denied without explanation)
 date: '2016-07-22 08:35:00'
 thumbnail: ''
 categories:
@@ -188,3 +188,22 @@ Public Records, an entity "that is in the regular business of news
 gathering and disseminating news or information to the public by any
 means", and
 am engaged in bona fide news gathering for the entity."
+
+**Update:** My appeal was denied.
+
+"
+Subject: Public Disclosure Request Reference# P008880-071416
+ 
+Dear Tim,
+ 
+Thank you, again, for your inquiry. We have thoroughly reviewed your appeal request and truly appreciate your time, effort and documentation provided.
+
+However, our decision remains a denial of the records you are seeking as stated in our July 22, 2016 communication.
+
+
+Sincerely, 
+
+JOHN URQUHART, King County Sheriff
+
+
+Kimberly Petty | Public Disclosure Program Manager | Sheriff's Administration"
