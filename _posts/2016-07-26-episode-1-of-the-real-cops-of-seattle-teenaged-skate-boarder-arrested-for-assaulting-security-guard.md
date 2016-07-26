@@ -1,6 +1,6 @@
 ---
-title: 'Episode 1 of the Real Cops of Seattle: Teenaged skate boarder arrested for
-  assaulting security guard'
+title: 'Episode 1 of Radical Transparency: The Real Cops of Seattle: Teenaged skate
+  boarder arrested for assaulting security guard'
 date: '2016-07-26 11:05:00'
 thumbnail: ''
 categories:
