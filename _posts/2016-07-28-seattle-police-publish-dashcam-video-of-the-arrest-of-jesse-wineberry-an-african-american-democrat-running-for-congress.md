@@ -9,7 +9,9 @@ description: ''
 author: Tim Clemans
 layout: post
 ---
-**News:** <iframe width="420" height="315" src="https://www.youtube.com/embed/tECqgs7x728" frameborder="0" allowfullscreen></iframe>
+**News:** 
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/tECqgs7x728" frameborder="0" allowfullscreen></iframe>
 
 According to the Seattle Times, the staff of Jesse Wineberry, an African American Democrat running for Congress, forgot to renew a rental agreement. According to Seattle Police, an automated license plate reader notified officers that the vehicle Wineberry was in was reported stolen. Wineberry was arrested. He filed a bias complaint with the police department.
 
