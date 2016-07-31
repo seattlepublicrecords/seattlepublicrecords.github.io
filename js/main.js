@@ -30,6 +30,7 @@ function runWidgets() {
     console.log('first');
     var url = $(this).attr('data-url') + encodeURIComponent($(this).attr('data-query'));
     var element = $(this);
+    element.html('Data is loading')
     $.get(url, function(data) {
       console.log('second');
       makeWidget(element, data);
