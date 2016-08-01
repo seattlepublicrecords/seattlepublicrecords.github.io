@@ -25,6 +25,6 @@ Instead of drawing on the deescalation skills officers are expected to put to us
 
 SPD's policy guidelines require officers to "take reasonable steps to be courteous and professional" during their interactions with citizens [Seattle Police Policy Manual: Terry Stops](http://www.seattle.gov/police-manual/title-6---arrests-search-and-seizure/6220---voluntary-contacts-terry-stops-and-detentions). Ignoring the standard of courteous professionalism and expectation of deescalation, officers last night forced the man to sit on the curb while four officers towered above, threatening and berating him with questions. 
 
-The man not charged with any crime and was released unconditionally shortly following the encounter. 
+The man was not charged with any crime and was released unconditionally shortly following the encounter. 
 
 Event #16-774403 (Officer Chesney nicely complied with Tim's request for his badge number and the event number.)
