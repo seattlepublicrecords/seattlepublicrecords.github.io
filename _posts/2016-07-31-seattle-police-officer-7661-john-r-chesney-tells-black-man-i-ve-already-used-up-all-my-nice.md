@@ -19,9 +19,10 @@ Instead of drawing on the deescalation skills officers are expected to put to us
 
 "Why can't you just talk man-to-man?" pleaded the man as he sat down.
 
-"I've used up all my nice," snapped Officer John Chesney. 
+"I've already used up all my nice," snapped Officer John Chesney. (Note: Tim hasn't been able to upload his video which captured this quote more clearly)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R1WZuObvNuk" frameborder="0" allowfullscreen></iframe>
+Video by Mike O'Dell
 
 SPD's policy guidelines require officers to "take reasonable steps to be courteous and professional" during their interactions with citizens [Seattle Police Policy Manual: Terry Stops](http://www.seattle.gov/police-manual/title-6---arrests-search-and-seizure/6220---voluntary-contacts-terry-stops-and-detentions). Ignoring the standard of courteous professionalism and expectation of deescalation, officers last night forced the man to sit on the curb while four officers towered above, threatening and berating him with questions. 
 
