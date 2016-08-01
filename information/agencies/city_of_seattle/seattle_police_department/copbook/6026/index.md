@@ -6,7 +6,7 @@ permalink: /information/agencies/city_of_seattle/seattle_police_department/copbo
 
 **Age as of Feb. 24, 2016:** 46
 
-https://github.com/seattlepublicrecords/seattlepublicrecords.github.io/tree/master/information/agencies/city_of_seattle/seattle_police_department/copbook/6026
+http://www.seattletimes.com/seattle-news/seattle-police-officer-arrested-on-suspicion-of-dui/
 
 http://behindthebluewall.blogspot.com/2009/08/wa-seattle-police-officer-scott-moss.html
 
