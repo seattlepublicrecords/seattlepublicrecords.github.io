@@ -8,6 +8,8 @@ permalink: /information/agencies/city_of_seattle/seattle_police_department/copbo
 
 **News articles:**
 
+[Seattle Police Officer arrested on suspicion of dui](http://www.seattletimes.com/seattle-news/seattle-police-officer-arrested-on-suspicion-of-dui/)
+
 [Behind the Blue Wall: Seattle Police Officer Scott Moss trial for assaulting wife about to start](http://behindthebluewall.blogspot.com/2009/08/wa-seattle-police-officer-scott-moss.html)
 
 [Seattle PI: Jury acquits Seattle officer of assaulting wife](http://blog.seattlepi.com/seattle911/2009/08/18/jury-acquits-seattle-officer-of-assaulting-wife/)
