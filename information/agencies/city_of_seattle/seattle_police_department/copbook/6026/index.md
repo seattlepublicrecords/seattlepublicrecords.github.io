@@ -6,12 +6,12 @@ permalink: /information/agencies/city_of_seattle/seattle_police_department/copbo
 
 **Age as of Feb. 24, 2016:** 46
 
-http://www.seattletimes.com/seattle-news/seattle-police-officer-arrested-on-suspicion-of-dui/
+**News articles:**
 
-http://behindthebluewall.blogspot.com/2009/08/wa-seattle-police-officer-scott-moss.html
+[Behind the Blue Wall: Seattle Police Officer Scott Moss trial for assaulting wife about to start](http://behindthebluewall.blogspot.com/2009/08/wa-seattle-police-officer-scott-moss.html)
 
-http://blog.seattlepi.com/seattle911/2009/08/18/jury-acquits-seattle-officer-of-assaulting-wife/
+[Seattle PI: Jury acquits Seattle officer of assaulting wife](http://blog.seattlepi.com/seattle911/2009/08/18/jury-acquits-seattle-officer-of-assaulting-wife/)
 
-http://behindthebluewall.blogspot.com/2011/04/wa-promoted-since-his-2nd-arrest.html
+[Behind the Blue Wall: Promoted since his 2nd arrest, Seattle Police Sgt. Scott Moss arrested a 3rd time](http://behindthebluewall.blogspot.com/2011/04/wa-promoted-since-his-2nd-arrest.html)
 
 
