@@ -9,7 +9,9 @@ description: ''
 author: Sara Goff (article), Mike O'Dell (records)
 layout: post
 ---
-Last August, SPD Officer Charles Foreman headed north for a trip to Whistler, British Columbia. During his vacation, Foreman got himself arrested by the Royal Canadian Mounted Police (RCMP) and charged with public intoxication, for which he paid a $115(Canadian) fine. 
+This article was made possible by Washington's strong Public Records Act, see all the documents we obtained for this article via [Dropbox](https://www.dropbox.com/sh/kt1l44xxtft2j3h/AAB9QZfoR2wEsqlEBy2WA_tta?dl=0).
+
+Last August, SPD Officer Charles Foreman headed north for a trip to Whistler, British Columbia. During his vacation, Foreman got himself arrested by the Royal Canadian Mounted Police (RCMP) and charged with public intoxication, for which he paid $115 Canadian dollars. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ky9bTiOxSQQ" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sKa5JGx2PVs" frameborder="0" allowfullscreen></iframe>
