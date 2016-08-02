@@ -14,7 +14,7 @@ Last August, SPD Officer Charles Foreman headed north for a trip to Whistler, Br
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ky9bTiOxSQQ" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sKa5JGx2PVs" frameborder="0" allowfullscreen></iframe>
 
-According to a report submitted by RCMP, Foreman also “caused a disturbance, resisted arrest, threatened officers and urinated on public property.” [OPA case summary] (https://www.dropbox.com/s/ce22tqvm92x6ua7/2015OPA-1138__Case_Summary.pdf?dl=0)
+According to a report submitted by RCMP, Foreman also “caused a disturbance, resisted arrest, threatened officers and urinated on public property.” [OPA case summary](https://www.dropbox.com/s/ce22tqvm92x6ua7/2015OPA-1138__Case_Summary.pdf?dl=0)
 
 Around 12:30 a.m., Foreman was refused entry to Moe Joe’s nightclub on the grounds that he was amply intoxicated. He initiated a physical confrontation with the bouncer who was escorting him out of the club. Two RCMP constables who were on foot patrol nearby noticed the commotion and proceeded to intervene.  
 
