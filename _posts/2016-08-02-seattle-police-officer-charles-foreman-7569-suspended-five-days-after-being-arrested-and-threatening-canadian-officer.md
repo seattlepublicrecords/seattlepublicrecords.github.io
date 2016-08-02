@@ -1,7 +1,7 @@
 ---
 title: 'Seattle Police officer Charles Foreman #7569 suspended five days after being
   arrested and threatening Canadian officer'
-date: '2016-08-02 12:45:00'
+date: '2016-08-02 00:00:00'
 thumbnail: ''
 categories:
 - news
