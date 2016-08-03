@@ -1,7 +1,8 @@
 ---
-title: Non-lawyer tips for making public records requests and appealing possible violations
+title: Non-lawyer tips for making Washington public records requests and appealing possible violations
 date: '2016-08-02 20:42:00'
 layout: page
+permalink: /information/non-lawyer-tips-for-making-public-records-requests-and-appealing-possible-pra-violations/
 ---
 This is in the very very early stages.
 
