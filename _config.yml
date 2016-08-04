@@ -30,5 +30,6 @@ defaults:
     values:
         thumbnail: ""
         categories: ["news"]
+        tags: ["netural"]
         description: ""
         author: "Tim Clemans"
