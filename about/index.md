@@ -10,5 +10,5 @@ Seattle Public Records is a Washington State Nonprofit organization, see [state 
 
 * Tim Clemans, President and board member
 * Mike O'Dell, Tsar and board member 
-* Sara Goff, Treasurer and secretary and board member 
-* David Golightly, web development
+* Sara Goff, Treasurer, secretary and board member 
+* David Golightly, web design
