@@ -33,3 +33,4 @@ Sgt Bourns screened the arrest at the scene.
 
 **Opinion:** I wish Seattle Police would be more assertive about showing the public what good policing looks like. Thanks to all the bad examples I've seen I really thought this man was going to be slammed to the ground. This incident has changed my beliefs about police interactions.
 
+Having gone through citizen academy I think the department should consider making a web page explaining de-escalation and use of force policies. On this page would be good and bad examples of de-escalation and use of force. 
