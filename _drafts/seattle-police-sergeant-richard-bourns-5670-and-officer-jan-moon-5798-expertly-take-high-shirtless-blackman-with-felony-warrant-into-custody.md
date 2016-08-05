@@ -10,15 +10,15 @@ description: ''
 author: Tim Clemans (article), Mike O'Dell (video)
 layout: post
 ---
+<iframe width="420" height="315" src="https://www.youtube.com/embed/XGw1bWiqxC4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nolojsmwsOs" frameborder="0" allowfullscreen></iframe>
+Video on left by me and one on right by Mike O'Dell.
+
 I think it's important to inform the public about expertly handled police interactions so that it can point to them when similar situations aren't handled well and to praise the officers for a job well done. The following account is an example of an expertly handled arrest. My gut feeling was I was about to witness the man be slammed to the ground. If Seattle Police officers in the future slam a black high man with felony warrant to the ground I promise you that me or someone else at SPR will reference this post.
 
 On 08/03/16 around 11PM Mike O'Dell and I went to 3RD and Lenora after hearing on the scanner that there was a fight. When we got there we couldn't find any sign of a fight. As we were about to leave we heard over scanner that police were asking for assistance a block away. When I got there I noticed a shirtless black man walking in traffic. Officers stayed calm and radioed for back up as they held the man against a patrol car. 
 
 Seattle Police Public Affairs Director Sean Whitcomb said what I saw was standard operating procedure. He said officers are trained in de-escalation and using the least amount of force necessary. The force used in this case was a type 1, see [8.400 - USE OF FORCE REPORTING AND INVESTIGATION](http://www.seattle.gov/police-manual/title-8---use-of-force/8400---use-of-force-reporting-and-investigation). You can listen to the [full conversation with Whitcomb via Dropbox](https://www.dropbox.com/sh/m8fnkf6addi7y5d/AAA-sKV5D2nhOCPSUzNtdzAha?dl=0)
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/XGw1bWiqxC4" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nolojsmwsOs" frameborder="0" allowfullscreen></iframe>
-Video on left by me and one on right by Mike O'Dell.
 
 Report from SPD (spaces are automated redactions done by Seattle Police):
 
