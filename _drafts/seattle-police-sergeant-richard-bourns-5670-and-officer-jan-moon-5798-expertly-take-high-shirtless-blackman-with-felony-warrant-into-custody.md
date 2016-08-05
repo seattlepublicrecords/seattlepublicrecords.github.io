@@ -15,7 +15,7 @@ I think it's important that the public be informed about expertly handled police
 <iframe width="420" height="315" src="https://www.youtube.com/embed/XGw1bWiqxC4" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nolojsmwsOs" frameborder="0" allowfullscreen></iframe>
 
-Report from SPD (spaces are redactions):
+Report from SPD (spaces are automated redactions done by Seattle Police):
 
 GO# 2016-279653
 
