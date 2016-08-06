@@ -11,7 +11,7 @@ layout: default
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} by {{ post.author }} <!--<a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
     <script type="text/javascript" src="//www.reddit.com/buttonlite.js?i=1"></script>-->
-    <div class="fb-share-button" data-href="{{site.url}}{{page.url}}" data-layout="button_count" style="position: relative; top: -8px; left: 33px;"></div>
+    <div class="fb-share-button" data-href="{{ post.url | prepend: site.baseurl }}" data-layout="button_count" style="position: relative; top: -8px; left: 33px;"></div>
 </span>
 
         <h2>
