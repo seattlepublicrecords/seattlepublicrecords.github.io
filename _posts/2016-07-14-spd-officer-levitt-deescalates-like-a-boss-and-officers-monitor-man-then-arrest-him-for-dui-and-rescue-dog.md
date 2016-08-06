@@ -5,6 +5,8 @@ date: '2016-07-14 01:31:00'
 thumbnail: ''
 categories:
 - news
+tags: 
+- good
 description: ''
 author: Tim Clemans
 layout: post
