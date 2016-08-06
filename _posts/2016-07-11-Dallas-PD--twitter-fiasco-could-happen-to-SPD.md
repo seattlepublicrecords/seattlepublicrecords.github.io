@@ -4,6 +4,8 @@ title:  "The Dallas Police Misidentified Suspect Twitter Fiasco could happen to 
 post_author: Tim Clemans
 date:   2016-07-11 09:20 +0000
 categories: news
+tags:
+- negative
 ---
 
 **News:** Per http://mashable.com/2016/07/08/dallas-police-suspect-cleared-tweet/#nPukqTAeMuqi Dallas Police kept a tweet online for 17 hours asking that the public look for a misidentified suspect. The Mashable article says "His brother Cory Hughes, a protest organiser, told KTVT that Mark was getting death threats as a result of the misidentification." Dallas Police initially refused to remove the tweet after determining he was not a suspect. After a lot of public discussion about the tweet they removed it. One reason for deleting a tweet like this is that it removes re-tweets. It's likely a lot of people will see re-tweets who don't see a correction tweet. 
