@@ -6,7 +6,7 @@ thumbnail: ''
 categories:
 - news
 tags: 
-- good
+- positive
 description: ''
 author: Tim Clemans
 layout: post
