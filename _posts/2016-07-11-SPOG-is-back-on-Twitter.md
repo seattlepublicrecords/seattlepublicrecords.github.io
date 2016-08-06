@@ -4,6 +4,8 @@ title:  "The Seattle Police Officers Guild returns to Twitter"
 post_author: Tim Clemans
 date:   2016-07-11 16:40 +0000
 categories: news
+tags:
+- positive
 ---
 
 The Seattle Police Officers Guild is backed on Twitter. I asked:
