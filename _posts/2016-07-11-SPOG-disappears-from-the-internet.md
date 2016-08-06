@@ -4,6 +4,8 @@ title:  "Seattle Police Officers Guild disappears from the internet"
 post_author: Tim Clemans
 date:   2016-07-11 11:30 +0000
 categories: news
+tags:
+- negative
 ---
 
 **News:** The Seattle Police Officers Guild took down its website in May, according to [King5: Court temporarily blocks release of SPD officer photos](http://www.king5.com/news/local/court-temporarily-blocks-release-of-spd-officer-photos/190889415). Now it has taken down its Facebook and Twitter accounts likely because of blacklash over a Facebook post that had "The hatred of law enforcement by a minority movement is disgusting. … #weshallovercome" in it, see [Seattle Times: Seattle police union says ‘minority movement’ Facebook post about Dallas taken out of context](http://www.seattletimes.com/seattle-news/seattle-police-union-deletes-minority-movement-facebook-post-about-dallas-shooting/)
