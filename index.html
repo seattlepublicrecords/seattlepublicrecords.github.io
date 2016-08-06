@@ -22,5 +22,9 @@ layout: default
   </ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-  
+  {% for tag in site.tags %} 
+      {% if ['positive', 'netural', 'negative'] contains tag[0] %}
+      {{ tag[0] }} {{ tag[1].size }}
+      {% endif %}
+    {% endfor %}
 </div>
