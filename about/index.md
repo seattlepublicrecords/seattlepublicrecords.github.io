@@ -4,7 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Seattle Public Records is a Washington State Nonprofit organization, see [state registration](https://www.sos.wa.gov/corps/search_results.aspx?search_type=simple&criteria=all&name_type=starts_with&name=&ubi=604-015-621). Registered agent: Tim Clemans <img src="/records/tim_clemans_drivers_license_photo.jpg" />
+Seattle Public Records is a non-profit organization, dedicated to improving communications and increasing transparency between public service organizations and the community they serve.
+
+Transparency increases public awareness of the challenging realities of public service. It offers increased respect and appreciation for our many diligent and sincere civic officials. It also provides accountability for those who treat their duty with carelessness or disregard.
+
+Good communication increases civic engagement and support from community members. Poor communication leads to frustration for both sides. Technology can either facilitate or block communications. Some citizens lack access to the tools and skills necessary to participate in a technology driven society. But all citizens deserve equal rights and protection.
+
+By creating easily accessible tools for communication, and providing important information about the daily business of civil service, Seattle Public Records seeks to serve both the community and the leaders of the community. This goal requires police, local government, and public support.
 
 **People involved:**
 
@@ -12,3 +18,9 @@ Seattle Public Records is a Washington State Nonprofit organization, see [state 
 * Mike O'Dell, Tsar and board member 
 * Sara Goff, Treasurer, secretary and board member 
 * David Golightly, web design
+* James Watkins, writing
+
+**Organization paperwork:**
+
+
+Seattle Public Records is a Washington State Nonprofit organization, see [state registration](https://www.sos.wa.gov/corps/search_results.aspx?search_type=simple&criteria=all&name_type=starts_with&name=&ubi=604-015-621). Registered agent: Tim Clemans (ID posted because Tim/SPR have active requests for employee photos and birthdays) <img src="/records/tim_clemans_drivers_license_photo.jpg" />
