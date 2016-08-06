@@ -8,7 +8,7 @@ Seattle Public Records is a non-profit organization, dedicated to improving comm
 
 Transparency increases public awareness of the challenging realities of public service. It offers increased respect and appreciation for our many diligent and sincere civic officials. It also provides accountability for those who treat their duty with carelessness or disregard.
 
-Good communication increases civic engagement and support from community members. Poor communication leads to frustration for both sides. Technology can either facilitate or block communications. Some citizens lack access to the tools and skills necessary to participate in a technology driven society. But all citizens deserve equal rights and protection.
+Good communication increases civic engagement and support from community members. Poor communication leads to frustration for everyone. Technology can either facilitate or block communications. Some citizens lack access to the tools and skills necessary to participate in a technology driven society. But all citizens deserve equal rights and protection.
 
 By creating easily accessible tools for communication, and providing important information about the daily business of civil service, Seattle Public Records seeks to serve both the community and the leaders of the community. This goal requires police, local government, and public support.
 
