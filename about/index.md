@@ -23,4 +23,5 @@ By creating easily accessible tools for communication, and providing important i
 **Organization paperwork:**
 
 
-Seattle Public Records is a Washington State Nonprofit organization, see [state registration](https://www.sos.wa.gov/corps/search_results.aspx?search_type=simple&criteria=all&name_type=starts_with&name=&ubi=604-015-621). Registered agent: Tim Clemans (ID posted because Tim/SPR have active requests for employee photos and birthdays) <img src="/records/tim_clemans_drivers_license_photo.jpg" />
+Seattle Public Records is a Washington State Nonprofit organization, see [state registration](https://www.sos.wa.gov/corps/search_results.aspx?search_type=simple&criteria=all&name_type=starts_with&name=&ubi=604-015-621). Registered agent: Tim Clemans (ID posted because Tim has active requests for employee photos and birthdays)<br/>
+<img src="/records/tim_clemans_drivers_license_photo.jpg" />
