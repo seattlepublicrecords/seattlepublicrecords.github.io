@@ -5,7 +5,7 @@ post_author: Tim Clemans
 date:   2016-07-11 16:50 +0000
 categories: news
 tags:
-- netural
+- neutral
 ---
 
 **News:** Seattle Police released on July 5, 2016 screenshots of Twitter showing who is blocked or muted.
