@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SPR emails
+title: City of Seattle Office of Professional Accountability Closed Case Summaries
 permalink: /information/agencies/city_of_seattle/office_of_professional_accountability/
 ---
 
