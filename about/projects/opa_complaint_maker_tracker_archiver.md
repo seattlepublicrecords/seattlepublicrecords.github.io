@@ -7,11 +7,13 @@ permalink: /about/projects/opa_complaint_maker_tracker_archiver/
 The initial goal is to make it as easy as possible to file a Seattle Police Office of Professional Accountability complaint via email, a web form, or Twitter. Future input routes would include but not be limited to SMS and Facebook. The complaint would be automatically published online so others could investigate or file complaints if they've had the same problems. A submitter would be able to automatically get status updates via email or Twitter. 
 
 Initial input mechasims:
+
 * Twitter (hashtag and @ reply or mention a bot)
 * Portal/form 
 * Email
 
 Workflow:
+
 * User submits a complaint
   * Can file it anonymously (if want to, can store contact info so SPR can relay status updates etc)
   * Form will support anonymous, email address only, and login via Google/Facebook oauth
