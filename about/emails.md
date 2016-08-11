@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SPR emails
+title: Emails to and from Seattle Public Records
 permalink: /about/emails/
 ---
 
