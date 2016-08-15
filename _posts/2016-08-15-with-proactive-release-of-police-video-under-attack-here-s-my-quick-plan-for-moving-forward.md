@@ -14,7 +14,7 @@ layout: post
 
 Spokane Police has found itself in a bit of controversy, see [Spokane police share body camera footage of ‘disorderly’ man, raising questions](http://www.spokesman.com/stories/2016/aug/12/body-cam-footage-of-downtown-spokane-tirade-calls-/) 
 
-I took down most videos on my policevideorequests account down to honor [Youtube's privacy policy](https://www.youtube.com/static?template=privacy_guidelines) My plan is for moving forward is to fix issues with precise auto over-redaction code I've written. For ICV see below:
+I took down most videos on my policevideorequests account down to honor [Youtube's privacy policy](https://www.youtube.com/static?template=privacy_guidelines) My plan is for moving forward is to fix issues with precise auto over-redaction code I've written and then use it to republish videos I obtained via the public records act. For ICV see below:
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/LJNDTUKwT94" frameborder="0" allowfullscreen></iframe>
 
