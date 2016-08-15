@@ -16,15 +16,12 @@ width:150px;
 float:left;
 margin-right:10px;
 }
-.photo img {
-width:100%;
-}
 .clear {
 clear:both;
 }
 </style>
 <div class="photo">
-<img src="/records/seattle_firefighter_sue_stangl.png.png"/>
+<img src="/records/seattle_firefighter_sue_stangl.png"/>
 <p>Firefighter Sue Stangl</p>
 </div>
 <div class="photo">
