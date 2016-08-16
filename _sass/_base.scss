@@ -204,3 +204,12 @@ pre {
         }
     }
 }
+
+.data_table td, .data_table th {
+    border: 1px solid #ccc;
+}
+
+.data_table .linked_row:hover {
+    background:#DCDCDC;
+    cursor:pointer;
+}
