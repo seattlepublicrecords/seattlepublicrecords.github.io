@@ -27,6 +27,6 @@ If video is dual recorded to multiple drives only one version of the video needs
 
 Pre-event video for forward facing camera is to be retained on the server for 14 days and destoryed if no records request made or incident likely to involve litigation or prosecution identified. To ensure that requesters have time to have their request processed I believe forward facing pre-event video needs to be retained no matter what for 14 days. This gives requesters and agencies enough time to identify a need to request fail-safe.
 
-Pre-event video for rear camera is to be retained until officer's shift is over to give officer time to ensure that the rear camera video of a subject involved in an incident where litigation/prosecution is likely. 
+Pre-event video for rear camera is to be retained until officer's shift is over to give officer time to ensure that the rear camera video of a subject involved in an incident where litigation/prosecution is likely. See an example of a late activation of system where suspect was in back of vehicle [OPA #2015-1635](https://www.dropbox.com/s/vmt2rjp8mhah8cl/2015OPA-1635_Case_Summary.pdf?dl=0)
 
 Pre-event video of incident likely to involve ligitation or prosecution retain until over including appeals exhausted. 
