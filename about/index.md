@@ -16,7 +16,8 @@ By creating easily accessible tools for communication, and providing important i
 
 * Tim Clemans, President and board member
 * Mike O'Dell, Tsar and board member 
-* Sara Goff, Treasurer, secretary and board member 
+* Sara Goff, Treasurer, secretary and board member
+* Andre Roberge, Lead writer about elected officials with active connection/impact to Seattle
 * Katrina Hess, project management for the OPA easy complaint filing, tracking, and archiving project
 * David Golightly, web design
 * James Watkins, writing
