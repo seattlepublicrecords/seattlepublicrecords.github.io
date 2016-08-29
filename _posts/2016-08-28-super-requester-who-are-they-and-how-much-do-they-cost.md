@@ -2,6 +2,7 @@
 title: Super Public Records Requester, what are they and how much do they cost?
 date: '2016-08-28 21:10:00'
 layout: post
+author: Andre Roberge
 ---
 ### Who are Seattle's Super Public Records Requesters? Secondly, how much does such action cost the institutions (tax payers) fulfilling their requests?  
 
