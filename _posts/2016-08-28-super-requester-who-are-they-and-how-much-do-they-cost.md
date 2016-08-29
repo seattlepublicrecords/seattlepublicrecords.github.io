@@ -44,7 +44,7 @@ Let's take a look at who are SPDs top Public Records Requesters since March 2016
 
 
 
-We also have data collected of top requesters from [Blake Harrison's PRA impact report](seattlepublicrecords.github.io/records/PRA_Impact_Study_City_of_Seattle_FINAL.pdf): 
+We also have data collected of top requesters from [Blake Harrison's PRA impact report](http://seattlepublicrecords.github.io/records/PRA_Impact_Study_City_of_Seattle_FINAL.pdf): 
 
 ![]({{ site.baseurl }}/forestryio/images/IMG_3637.PNG)
 
@@ -72,7 +72,7 @@ We also have data collected of top requesters from [Blake Harrison's PRA impact 
 
 
 
-In the study “[THE IMPACT OF COMPLIANCE WITH THE PUBLIC RECORDS ACT: THE CITY OF SEATTLE (2011-2015)](seattlepublicrecords.github.io/records/PRA_Impact_Study_City_of_Seattle_FINAL.pdf) Blake Harrison intends to lay out the enormous costs of serial requesters as a result of the Public Records Act. Put generally, the top ten requesters for public records accounted for 15-20% of the total requests as well as the money and time spent on those requests.  
+In the study “[THE IMPACT OF COMPLIANCE WITH THE PUBLIC RECORDS ACT: THE CITY OF SEATTLE (2011-2015)](http://seattlepublicrecords.github.io/records/PRA_Impact_Study_City_of_Seattle_FINAL.pdf) Blake Harrison intends to lay out the enormous costs of serial requesters as a result of the Public Records Act. Put generally, the top ten requesters for public records accounted for 15-20% of the total requests as well as the money and time spent on those requests.  
 
 ![]({{ site.baseurl }}/forestryio/images/FullSizeRender (3).jpg)
 
