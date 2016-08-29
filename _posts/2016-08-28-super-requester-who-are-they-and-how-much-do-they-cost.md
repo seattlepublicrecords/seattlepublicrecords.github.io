@@ -6,6 +6,7 @@ author: Andre Roberge
 ---
 
 ![]({{ site.baseurl }}/forestryio/images/IMG_3651.PNG)
+
 ### Who are Seattle's Super Public Records Requesters? Secondly, how much does such action cost the institutions (tax payers) fulfilling their requests?  
 
 [As data sets in all organizations grow as technology advances](http://www.vanguardngr.com/2015/01/mastering-small-data-big-data-2/), so does the [desire/need/law](http://www.seattle.gov/cityattorney/how-do-i/file-a-public-disclosure-request) require such data be available to the public via [public disclosure legislation](http://apps.leg.wa.gov/RCW/default.aspx?cite=42.56&full=true).  With the advent of new technologies in Law Enforcement [new types of data are being stored](http://www.nbcnews.com/news/us-news/new-baltimore-aerial-surveillance-program-raises-trust-issues-n638496) and used then in years past.  This creates a host of new issues that SPD and other public institutions face if they want to fulfill the [value of transparency](http://www.qog.pol.gu.se/digitalAssets/1418/1418047_2012_16_bauhr_grimes.pdf).  Thus, serial requesters have/are requesting such data for the public at large.
