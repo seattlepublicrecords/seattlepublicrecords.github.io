@@ -10,8 +10,6 @@ layout: default
     {% for post in site.posts %}
       <li>
         {{ post.date | date: "%b %-d, %Y" }} by {{ post.author }} 
-    <div class="fb-share-button fb_iframe_widget" data-href="{{ post.url | prepend: site.baseurl }}" data-layout="button_count" style="position: relative; top: -8px; left: 33px;" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=1628812937372396&container_width=575&href=https%3A%2F%2Fforestry.io%2Fsites%2Ffmppirlfzxykma%2Fpages%2F%257B%257B%2520post.url%2520%257C%2520prepend%3A%2520site.baseurl%2520%257D%257D&layout=button_count&locale=en_US&sdk=joey"><iframe name="f1c511e5a01dfc4" width="1000px" height="1000px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" title="fb:share_button Facebook Social Plugin" src="https://www.facebook.com/v2.4/plugins/share_button.php?app_id=1628812937372396&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FLcj5EtQ5qmD.js%3Fversion%3D42%23cb%3Df3cbbdbfedbdfd%26domain%3Dforestry.io%26origin%3Dhttps%253A%252F%252Fforestry.io%252Ffe4e4355fbbe5c%26relation%3Dparent.parent&container_width=575&href=https%3A%2F%2Fforestry.io%2Fsites%2Ffmppirlfzxykma%2Fpages%2F%257B%257B%2520post.url%2520%257C%2520prepend%3A%2520site.baseurl%2520%257D%257D&layout=button_count&locale=en_US&sdk=joey" style="border: none; visibility: visible; width: 86px; height: 20px;"></iframe></div>
-
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
