@@ -8,7 +8,7 @@ Neither KOMO's or Broadcastify's sites give the public the ability to playback i
 
 This system was inexpensive to setup. We use:
 
-- This tutorial: [http://www.rtl-sdr.com/rtl-sdr-tutorial-following-trunked-radio-unitrunker/](http://www.rtl-sdr.com/rtl-sdr-tutorial-following-trunked-radio-unitrunker/) Note a hard part is figuring out the PPM Correction for each radio. We used a NOAA weather channel. See https://www.youtube.com/watch?v=gFXMbr1dgng
+- This tutorial: [http://www.rtl-sdr.com/rtl-sdr-tutorial-following-trunked-radio-unitrunker/](http://www.rtl-sdr.com/rtl-sdr-tutorial-following-trunked-radio-unitrunker/) Note a hard part is figuring out the PPM Correction for each radio. We used a NOAA weather channel. See [https://www.youtube.com/watch?v=gFXMbr1dgng](https://www.youtube.com/watch?v=gFXMbr1dgng)
 - Two $20 TV tunners [https://www.amazon.com/NooElec-RTL-SDR-RTL2832U-Software-Packages/dp/B008S7AVTC](https://www.amazon.com/NooElec-RTL-SDR-RTL2832U-Software-Packages/dp/B008S7AVTC) One listens to the control channel. Another switches frequencies and listens to audio based on a configuration.
 - Windows
 - Unitrunker [http://www.unitrunker.com/download/](http://www.unitrunker.com/download/)
