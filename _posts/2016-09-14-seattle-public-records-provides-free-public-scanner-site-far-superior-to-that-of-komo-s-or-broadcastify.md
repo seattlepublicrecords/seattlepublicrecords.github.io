@@ -1,15 +1,16 @@
-----
--title: Seattle Public Records provides free public scanner site far superior to that of KOMO's or Broadcastify
--date: '2016-09-14 10:54:00'
--thumbnail: ''
--categories:
--- news
--tags:
--- netural
--description: ''
--author: Seattle Public Records
--layout: post
-----
+---
+title: Seattle Public Records provides free public scanner site far superior to that
+  of KOMO's or Broadcastify
+date: '2016-09-14 10:54:00'
+thumbnail: ''
+categories:
+- news
+tags:
+- netural
+description: ''
+author: Seattle Public Records
+layout: post
+---
 Using the laptop of the late attorney [Cleveland Stockmeyer](http://www.thestranger.com/slog/2016/05/03/24037709/seattle-mourns-the-loss-of-cleveland-stockmeyer-one-of-its-greatest-attorneys) who won [SeaCop a few public records settlements](http://www.thestranger.com/blogs/slog/2015/10/12/23000564/seattle-police-department-reaches-30000-settlement-with-center-for-open-policing-over-disclosure-of-gps-data) Seattle Public Records is providing the public free access to live and historicial public safety radio transmissions. See [scanner.seattlepublicrecords.org](https://scanner.seattlepublicrecords.org/) While we've had the site up for about a month we went in last night and removed a lot of irrelevant talkgroups, labeled them, and prioritized SPD dispatchers, West radio, and West PTAC. Note we removed the Fire Department's robo voice talkgroups because the same info is at [www2.seattle.gov/fire/realtime911/getRecsForDatePub.asp?action=Today&incDate=&rad1=des](www2.seattle.gov/fire/realtime911/getRecsForDatePub.asp?action=Today&incDate=&rad1=des) For comparison see [www2.seattle.gov/fire/realtime911/getRecsForDatePub.asp?action=Today&incDate=&rad1=des](www2.seattle.gov/fire/realtime911/getRecsForDatePub.asp?action=Today&incDate=&rad1=des) and [http://www.broadcastify.com/listen/ctid/2974](http://www.broadcastify.com/listen/ctid/2974)
 
 We believe this is a significant step forward for anyone interested in incidents. For example it is hard to get status info on trauma patients but there is a talkgroup that has that info, see [https://scanner.seattlepublicrecords.org/talkgroup/2032-3D1C](https://scanner.seattlepublicrecords.org/talkgroup/2032-3D1C) The immediate playback ability is super helpful in the field. 
