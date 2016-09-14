@@ -31,6 +31,6 @@ This system was inexpensive to setup. We use:
 Auto transcription didn't go as well as we hoped, see [https://twitter.com/spdsouthradio](https://twitter.com/spdsouthradio) We'll try transcription of just the dispatchers next. We'll probably need to do a hybird where computer does an attempt at transcription and a human fixes it.
 
 Next steps are:
-* Auto uploading the audio to Dropbox
-* Building a new interface that incorporates auto transcripts, allows adding of manual transcriptions, per incident note taking, incorporates real-time fire data, Tweets, etc. One thing is needed is the ability to quickly select audio to turn into a clip that can be uploaded to Youtube.
-* Adding more radios so we can capture multiple simulateous transmissions. We may have to purchase a virtual audio cable tool. The free one we use doesn't seem to allow us to have multiple virtual cables. 
+- Auto uploading the audio to Dropbox
+- Building a new interface that incorporates auto transcripts, allows adding of manual transcriptions, per incident note taking, incorporates real-time fire data, Tweets, etc. One thing is needed is the ability to quickly select audio to turn into a clip that can be uploaded to Youtube.
+- Adding more radios so we can capture multiple simulateous transmissions. We may have to purchase a virtual audio cable tool. The free one we use doesn't seem to allow us to have multiple virtual cables. 
