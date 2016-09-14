@@ -3,7 +3,7 @@ title: Seattle Public Records
 layout: default
 ---
 <div class="home">
-  <p>Seattle Public Records is a nonprofit news and advocacy oraganization using [Washington's Public Records Act](http://apps.leg.wa.gov/rcw/default.aspx?cite=42.56&full=true) to provide the public as much news and information about Seattle related government as possible.</p>
+  <p>Seattle Public Records is a nonprofit news and advocacy oraganization using <a href="http://apps.leg.wa.gov/rcw/default.aspx?cite=42.56&full=true">Washington's Public Records Act</a> to provide the public as much news and information about Seattle related government as possible.</p>
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
