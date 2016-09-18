@@ -17,6 +17,7 @@ By creating easily accessible tools for communication, and providing important i
 * Tim Clemans, aka the Real Nightcrawler, President and board member
 * Mike O'Dell, Tsar and board member 
 * Sara Goff, Treasurer, secretary and board member
+* Eric Rachner, owns and maintains the computer running SPR's scanner site https://scanner.seattlepublicrecords.org
 
 **People formly involved:**
 
