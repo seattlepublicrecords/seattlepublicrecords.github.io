@@ -14,7 +14,7 @@ By creating easily accessible tools for communication, and providing important i
 
 **People involved:**
 
-* Tim Clemans, President and board member
+* Tim Clemans, aka the Real Nightcrawler, President and board member
 * Mike O'Dell, Tsar and board member 
 * Sara Goff, Treasurer, secretary and board member
 
