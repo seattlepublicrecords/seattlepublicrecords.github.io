@@ -12,7 +12,7 @@ description: 'SPD without my permission narrowed a request to just personal stat
 author: Tim Clemans
 layout: post
 ---
-Seattle Police really doesn't want the public to know about the stuff attached to its walls, lockers, and cubicles. I made a records request in response to tweets by Ansel Herz later discussed in [Crude Anti-Obama Stickers Seen on Lockers During Tour of Police North Precinct](http://www.thestranger.com/slog/2016/09/09/24551162/crude-anti-obama-stickers-seen-on-lockers-during-tour-of-police-north-precinct) Without my permission it limited my request to personal statements and then claimed personal statements aren't public records. I'm curious when is an on duty's employee's statement personal vs governmental? Like one poster said "Try not to end up on YouTube". How is that any different from an employee writing an email reminding co-workers to not end up on Youtube?
+Seattle Police really doesn't want the public to know about the stuff attached to its walls, lockers, and cubicles. I made a records request in response to tweets by Ansel Herz later discussed in [Crude Anti-Obama Stickers Seen on Lockers During Tour of Police North Precinct](http://www.thestranger.com/slog/2016/09/09/24551162/crude-anti-obama-stickers-seen-on-lockers-during-tour-of-police-north-precinct) Without my permission SPD limited my request to personal statements and then claimed personal statements aren't public records. I'm curious when is an on duty's employee's statement personal vs governmental? Like one poster said "Try not to end up on YouTube". How is that any different from an employee writing an email reminding co-workers to not end up on Youtube?
 
 Here's SPD's response and then my appeal:
 
