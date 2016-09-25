@@ -18,6 +18,7 @@ By creating easily accessible tools for communication, and providing important i
 * Mike O'Dell, Tsar and board member 
 * Sara Goff, Treasurer, secretary and board member
 * Eric Rachner, owns and maintains the computer running SPR's scanner site https://scanner.seattlepublicrecords.org
+* Phil Mocek, donated recording software and purchased two additional radio scanners and a hub building
 
 **People formly involved:**
 
